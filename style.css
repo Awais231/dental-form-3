@@ -1,0 +1,88 @@
+.mid h3{
+ text-align: center;  
+}
+.mid{
+    width:1010px;
+    height: 320px;
+    border: 1px solid black
+}
+.mid1{
+    text-align: center
+}
+
+.brain{
+    width:1000px;
+    height: 500px;
+    border: 1px solid black
+}
+.brain h3{
+ text-align: center;
+}
+.page1{
+    text-align: center;
+    margin: 30px;
+    width: 200px;
+    height: 120px;
+    border: 1px solid black
+}
+
+.page2{
+    text-align: center;
+    margin: 30px;
+    width: 200px;
+    height: 120px;
+    border: 1px solid black
+
+}
+.page3{
+    text-align: center;
+    margin: 30px;
+    width: 200px;
+    height: 120px;
+    border: 1px solid black
+
+}
+.onetothreepage{
+    display: flex;
+}
+
+.page4{
+    text-align: center;
+    margin: 30px;
+    width: 200px;
+    height: 120px;
+    border: 1px solid black
+
+
+}
+.page5{
+    text-align: center;
+    margin: 30px;
+    width: 200px;
+    height: 120px;
+    border: 1px solid black
+
+}
+.page6{
+    text-align: center;
+    margin: 30px;
+    width: 200px;
+    height: 120px;
+    border: 1px solid black
+
+}
+.fourtosix{
+   display: flex;
+}
+.onetosix{
+    text-align: center;
+}
+.footer{
+    width: 1000px;
+    text-align: center;
+    border: 1px solid black
+    
+    
+}
+
+    
